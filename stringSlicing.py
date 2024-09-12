@@ -1,4 +1,5 @@
 a = input("enter string : ")
+print(len(a))
 b = int(input("start : "))
 c = int(input("end : "))
 d = int(input("interval : "))
